@@ -1,2 +1,2 @@
-# better-java-fcgi
-Better Java FastCGI server side library
+# The Better FastCGI Server Library for Java
+Credits and other stuff will come later
